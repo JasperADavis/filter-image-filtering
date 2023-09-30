@@ -1,0 +1,4 @@
+*.bmp
+/images/.DS_Store
+helpers_og.c
+placeholder.txt
